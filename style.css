@@ -16,16 +16,12 @@ flex-wrap: wrap;
 padding: 20px;
 box-sizing: border-box;
 
-
 }
-
 .video {
 	width: 100%;
-
 }
 .video a .preview {width: 100%;
 }
-
 
 header {
 	background-color: #e5e9e9da;
@@ -62,16 +58,16 @@ form button {
 	padding: 10px 20px;
 	border-radius: 25px;
 	border: none;
-	color: #FF0000;
+	color: #d85f18;
 }
 
 a {
-	color: #0f0f0f;
+	color: #0e0d0d;
 	text-decoration: none;
 	margin-left: 10px;
 }
 
 button {
-	background-color: #eaece5;
+	background-color: #eceee8;
 	/*padding*/
 }
